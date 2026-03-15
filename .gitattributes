@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+*.ps1 text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.env text eol=lf

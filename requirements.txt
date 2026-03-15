@@ -1,0 +1,6 @@
+paho-mqtt
+python-dotenv
+requests
+winotify
+pystray
+pillow
