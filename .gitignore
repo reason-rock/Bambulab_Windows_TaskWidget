@@ -49,3 +49,14 @@ desktop.ini
 *.sqlite
 *.sqlite3
 *.db
+
+# PyInstaller specs
+*.spec
+
+# Build cache and archives
+build_codex/
+dist_codex/
+build_codex_v2/
+dist_codex_v2/
+build_release/
+dist_release/
