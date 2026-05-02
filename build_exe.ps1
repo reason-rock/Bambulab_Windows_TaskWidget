@@ -18,6 +18,7 @@ $args = @(
     "--workpath", $workDir,
     "--name", "Bambu Monitor",
     "--collect-all", "winotify",
+    "--add-data", "$projectIcon;.",
     "--hidden-import", "pystray._win32",
     "--hidden-import", "PIL._tkinter_finder",
     "bbmonitor.py"
